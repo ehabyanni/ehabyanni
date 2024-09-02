@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Shelter Technology  
   
 
-- 🌱 I’m currently learning State Management (Redux)  
+- 🌱 I’m currently learning State Management (Redux - RTX - AsyncThunk)  
   
 
 <br/>  
